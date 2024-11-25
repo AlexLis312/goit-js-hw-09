@@ -1,0 +1,28 @@
+{
+  "name": "goit-js-hw-08",
+  "version": "2.0.0",
+  "description": "Цей проект створено за допомогою Parcel. Для ознайомлення та налаштування \r додаткових можливостей, [зверніться до документації](https://parceljs.org/).",
+  "homepage": "https://AlexLis312.github.io/goit-js-hw-08",
+  "scripts": {
+    "start": "parcel src/*.html",
+    "build": "parcel build src/*.html --public-url /goit-js-hw-09/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexLis312/goit-js-hw-09.git"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "dependencies": {
+    "flatpickr": "^4.6.13",
+    "notiflix": "^3.2.7"
+  },
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.6.0",
+    "parcel": "^2.6.0",
+    "parcel-reporter-clean-dist": "^1.0.4",
+    "posthtml-include": "^1.7.4"
+  },
+  "browserslist": "> 0.5%, last 2 versions, not dead",
+  "author": "Alex XeX <metalstyle545@gmail.com>"
+}
